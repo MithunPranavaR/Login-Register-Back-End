@@ -71,15 +71,4 @@ MIDDLEWARE = [
 
 CORS_ALLOW_ALL_ORIGINS = True  # Or whitelist specific origins
 
----
-📄 License
-
----
-
-Let me know if you want to:
-- Add role support (`user`, `admin`, etc.)
-- Hook it into a full app like WorkNest
-- Add form validation, toast alerts, or dashboard redirects
-
-I got you. 💪
 
