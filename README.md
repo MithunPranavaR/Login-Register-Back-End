@@ -35,7 +35,7 @@ A simple and secure backend built with Django REST Framework to handle user regi
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/login-register-backend.git
+git clone https://github.com/MithunPranavaR/Login-Register-Back-End.git
 cd login-register-backend
 
 ### 2️⃣ Create & Activate Virtual Env
